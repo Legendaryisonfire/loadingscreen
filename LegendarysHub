@@ -354,5 +354,5 @@ end
 
 
 
-Stand("WELCOME","Made By pd.legendary#7357","Join our discord to support us",cordCode,"","Continue!",true)
+Stand("WELCOME","Made By pd.legendary#7357","Join my discord to support me",cordCode,"","Enjoy!",true)
 --repeat wait() until RunDude == true
